@@ -1,17 +1,17 @@
 {
-  "name": "passport-linkedin-token-oauth2",
-  "version": "0.1.3",
-  "description": "LinkedIn token authentication strategy for Passport.",
+  "name": "passport-molch-token-oauth2",
+  "version": "0.1",
+  "description": "molch token authentication strategy for Passport.",
   "author": {
-    "name": "Vladimir Katansky",
-    "email": "pointhomefinal@gmail.com",
-    "url": "http://katansky-blog.com/"
+    "name": "Thomas Felder",
+    "email": "tf@molch.at",
+    "url": "https://molch.at/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Blackening999/passport-linkedin-token-oauth2"
+    "url": "https://github.com/molchwien/passport-molch-token-oauth2"
   },
-  "main": "./lib/passport-linkedin-token-oauth2",
+  "main": "./lib/passport-molch-token-oauth2",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": "0.1.x"
@@ -30,7 +30,7 @@
     "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
   },
   "bugs": {
-    "url": "https://github.com/Blackening999/passport-linkedin-token-oauth2/issues"
+    "url": "https://github.com/molchwien/passport-molch-token-oauth2/issues"
   },
-  "homepage": "https://github.com/Blackening999/passport-linkedin-token-oauth2"
+  "homepage": "https://github.com/molchwien/passport-molch-token-oauth2"
 }
