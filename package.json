@@ -1,6 +1,7 @@
 {
   "name": "passport-molch-token-oauth2",
   "description": "molch token authentication strategy for Passport.",
+  "version": "master",
   "author": {
     "name": "Thomas Felder",
     "email": "tf@molch.at",
